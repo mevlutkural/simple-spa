@@ -1,0 +1,2 @@
+# simple-spa
+You can serve the project with run "node server.js" code. Be sure that you are in root folder while you are running this code. If you don't, you probably get some errors and the project won't serve.
